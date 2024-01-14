@@ -34,6 +34,8 @@ import java.util.concurrent.TimeUnit;
 public class MethodRepository {
     private WebDriver driver;
 
+    //Test git hub
+
     public void browserApplicationLaunch(String browserName, String url) throws InterruptedException {
 
         try {
